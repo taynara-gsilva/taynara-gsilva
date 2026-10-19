@@ -45,7 +45,7 @@ const tay = {
 </td>
 <td width="40%" valign="middle" align="center">
 
-<img src="https://giphy.com/gifs/scaler-official-computer-laptop-hello-world-hpXdHPfFI5wTABdDx9" width="220" alt="Programmer working at a computer"/>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjQ3ZWY5ejB5cXp6cjcwYzBqZHhqYTRmbGFzejRuOTE5dno0dXpiaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif" width="220" alt="Programmer working at a computer"/>
 
 **IDEAS → SYSTEMS → IMPACT**
 
